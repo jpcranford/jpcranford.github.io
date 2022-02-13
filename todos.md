@@ -1,0 +1,5 @@
+- [x] Remove share links from post
+- [ ] Figure out MuseScore profile links
+- [ ] Figure out what I'm gonna do for the footer links
+  - Remove links to About page?
+  - If keep, definitely redesign logos to be less google android-esque
