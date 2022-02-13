@@ -6,13 +6,13 @@ categories: Jekyll
 
 This page is a test for embedding needed content.
 
-## MuseScore Scores
+# MuseScore Scores
 Over the Garden Wall:
-<iframe width="100%" height="394" src="https://musescore.com/user/19506/scores/6798751/embed" frameborder="0" allowfullscreen allow="autoplay; fullscreen"></iframe>
+<iframe width="100%" height="750" src="https://musescore.com/user/19506/scores/6798751/embed" frameborder="0" allowfullscreen allow="autoplay; fullscreen"></iframe>
 <span><a href="https://musescore.com/user/19506/scores/6798751/s/dU3ibe" target="_blank">Over The Garden Wall - Over The Garden Wall</a> by <a href="https://musescore.com/jpcranford">jpcranford</a></span>
 
 Come, Come Emmanuel:
-<iframe width="100%" height="900" src="https://musescore.com/user/19506/scores/7322321/embed" frameborder="0" allowfullscreen allow="autoplay; fullscreen"></iframe>
+<iframe width="100%" height="600" src="https://musescore.com/user/19506/scores/7322321/embed" frameborder="0" allowfullscreen allow="autoplay; fullscreen"></iframe>
 <span><a href="https://musescore.com/user/19506/scores/7322321/s/AXluua" target="_blank">O Come O Come Emmanuel</a> by <a href="https://musescore.com/jpcranford">jpcranford</a></span>
 
 ## GitHub Gists
