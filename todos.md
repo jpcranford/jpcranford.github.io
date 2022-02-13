@@ -1,6 +1,9 @@
 - [x] Remove share links from post
 - [ ] Figure out MuseScore profile links
 - [ ] Figure out what I'm gonna do for the footer links
-  - Remove links to About page?
-  - If keep, definitely redesign logos to be less google android-esque
+    - Remove links to About page?
+    - If keep, definitely redesign logos to be less google android-esque
 - [ ] Write About page
+- [ ] Customize theme based on sidebar
+- [ ] Customize CSS for GitHub gist embeds so it's not so ugly
+    - Possible [help](https://betterstack.dev/blog/how-to-embed-a-github-gist-in-your-website/)
