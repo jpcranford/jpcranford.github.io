@@ -4,7 +4,9 @@
     - Remove links to About page?
     - If keep, definitely redesign logos to be less google android-esque
 - [ ] Write About page
-- [ ] Customize theme based on sidebar
+- [ ] Customize theme
+    - Dark mode; sidebar avigation and profile icons; also link hover - from Carte Noire - Github [repo](https://github.com/jacobtomlinson/carte-noire), [demo site](http://carte-noire.jacobtomlinson.co.uk)
+    - Possible dark mode colors from [5eTools](https://5e.tools/index.html)'s alt night mode
 - [ ] Customize CSS for GitHub gist embeds so they're not so ugly
 - [ ] Customize CSS for GitHub gist embeds so they're not so long
     - Possible [help](https://betterstack.dev/blog/how-to-embed-a-github-gist-in-your-website/)
