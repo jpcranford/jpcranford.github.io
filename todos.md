@@ -5,7 +5,13 @@
     - If keep, definitely redesign logos to be less google android-esque
 - [ ] Write About page
 - [ ] Customize theme
-    - Dark mode; sidebar avigation and profile icons; also link hover - from Carte Noire - Github [repo](https://github.com/jacobtomlinson/carte-noire), [demo site](http://carte-noire.jacobtomlinson.co.uk)
+    - [ ] Get site icon centered over name
+    - From Carte Noire - Github [repo](https://github.com/jacobtomlinson/carte-noire), [demo site](http://carte-noire.jacobtomlinson.co.uk)
+        - [ ] Dark mode colors
+        - [ ] Sidebar navigation and profile icons
+        - [ ] Also link color change on hover
+        - Font too big on posts
+        - Maybe: big icon above site name = FontAwesome's `piano-keyboard`?
     - Possible dark mode colors from [5eTools](https://5e.tools/index.html)'s alt night mode
 - [ ] Customize CSS for GitHub gist embeds so they're not so ugly
 - [ ] Customize CSS for GitHub gist embeds so they're not so long
