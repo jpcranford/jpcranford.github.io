@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  ""
-categories: [Markdown,Jekyll]
+categories: Jekyll
 ---
 
 This is just a test.
