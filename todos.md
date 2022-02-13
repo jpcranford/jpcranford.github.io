@@ -5,5 +5,6 @@
     - If keep, definitely redesign logos to be less google android-esque
 - [ ] Write About page
 - [ ] Customize theme based on sidebar
-- [ ] Customize CSS for GitHub gist embeds so it's not so ugly
+- [ ] Customize CSS for GitHub gist embeds so they're not so ugly
+- [ ] Customize CSS for GitHub gist embeds so they're not so long
     - Possible [help](https://betterstack.dev/blog/how-to-embed-a-github-gist-in-your-website/)
