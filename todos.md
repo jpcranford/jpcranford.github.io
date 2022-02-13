@@ -3,3 +3,4 @@
 - [ ] Figure out what I'm gonna do for the footer links
   - Remove links to About page?
   - If keep, definitely redesign logos to be less google android-esque
+- [ ] Write About page
