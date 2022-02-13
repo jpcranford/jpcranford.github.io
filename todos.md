@@ -16,3 +16,11 @@
 - [ ] Customize CSS for GitHub gist embeds so they're not so ugly
 - [ ] Customize CSS for GitHub gist embeds so they're not so long
     - Possible [help](https://betterstack.dev/blog/how-to-embed-a-github-gist-in-your-website/)
+- [ ] Add copyright section - "Unless otherwise noted, and to the extent available to the author, this website and its contents are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>."
+
+```html
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+```
+
+### Notes
+- MuseScore embeds &mdash; that is, the `iframe`'s `height` property &mdash; should be set to **600**.
