@@ -12,7 +12,8 @@ author: J.P. Cranford
 description: My personal blog, where I occasionally post stuff I'm working on. Sometimes tech, sometimes music, always interesting.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: /images/reverie.png
+avatar: https://avatars.githubusercontent.com/u/21347202?v=4
+#avatar: /images/reverie.png
 
 #
 # Flags below are optional
