@@ -26,4 +26,4 @@ Grouped roughly from less to more difficult:
 - [ ] Get page's published date from front matter, rather than filename.
 
 ### Notes
-- MuseScore embeds &mdash; that is, the `iframe`'s `height` property &mdash; should be set to **600**.
+- MuseScore embeds &mdash; that is, the `iframe`'s `height` property &mdash; should be set to **600** for shorter embeds, or **1100** for full-page ones. (aka 100 pixels per inch)
