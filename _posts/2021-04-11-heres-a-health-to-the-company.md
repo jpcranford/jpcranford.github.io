@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Lead Sheet - "Here's a Health to the Company"
+title: Here's a Health to the Company
 categories: [Music,Folk]
+excerpt: Something about the haunting melody and the somber yet well-wishing lyrics seem fitting for both a wedding and funeral, in a way.
 ---
 
 Went to my brother's wedding this week, and somehow this song ended up being in my head the entire week. Something about the haunting melody and the somber yet well-wishing lyrics seem fitting for both a wedding and funeral, in a way.

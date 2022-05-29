@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lead Sheet - "Whiskey in the Jar"
+title: Whiskey in the Jar
 categories: [Music,Folk]
 ---
 
