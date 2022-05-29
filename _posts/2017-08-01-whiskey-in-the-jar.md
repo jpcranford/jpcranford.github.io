@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Whiskey in the Jar
-categories: [Music,Folk]
+title: "Whiskey in the Jar" (Lead Sheet)
+categories: Music
+excerpt: ""
 ---
 
 This arrangement is based on a work in the public domain, and is available to download for free on MuseScore.com.
