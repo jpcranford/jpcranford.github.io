@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Whiskey in the Jar" (Lead Sheet)
+title: Whiskey in the Jar (Lead Sheet)
 categories: Music
 excerpt: ""
 ---

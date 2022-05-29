@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "(Joshua Fit the) Battle of Jericho" (Lead Sheet)
+title: Joshua Fit the Battle of Jericho (Lead Sheet)
 categories: Music
 ---
 

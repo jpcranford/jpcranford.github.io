@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "(We Are Climbing) Jacob's Ladder" (Lead Sheet)
+title: We Are Climbing Jacob's Ladder (Lead Sheet)
 categories: Music
 ---
 
