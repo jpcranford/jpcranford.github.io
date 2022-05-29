@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Embed Tests"
-categories: Jekyll
 ---
 
 This page is a test for embedding needed content.
