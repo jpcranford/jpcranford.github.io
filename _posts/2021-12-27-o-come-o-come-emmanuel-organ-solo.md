@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Organ Solo on "O Come, O Come Emmanuel"
-categories: [Music,Christmas]
+categories: [Music,Christmas,Organ,Church]
 ---
 
 An organ solo on the traditional tune "O Come, O Come Emmanuel."

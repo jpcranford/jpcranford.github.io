@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Whiskey in the Jar (Lead Sheet)
-categories: Music
+categories: [Music,Folk]
 excerpt: ""
 ---
 
