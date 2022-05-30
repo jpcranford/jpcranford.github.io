@@ -295,13 +295,13 @@ p > img {
 }
 
 .site-info {
-  // float: left;
+  float: left;
 
-  // @include mobile {
+  @include mobile {
     float: none;
     display: block;
     margin: 0 auto;
-  // }
+  }
 }
 
 .site-name {
@@ -312,11 +312,11 @@ p > img {
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
-  // text-align: left;
+  text-align: left;
 
-  // @include mobile {
+  @include mobile {
     text-align: center;
-  // }
+  }
 }
 
 .site-description {
