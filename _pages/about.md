@@ -6,6 +6,8 @@ permalink: /about/
 
 Lorem ipsum. Content to be written. Until then, info dump below.
 
+Welcome to my personal blog, where I post stuff I've done. Sometimes tech, sometimes music, and on occasion just for fun.
+
 - Musician
 	- **Pipe Organ**
     - **Keyboard.** I've played in a few bands, playing Hammond organ, Rhodes, Wurlitzer, synth, and piano parts. I tend to favor rock and blues, with some jazz.
