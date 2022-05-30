@@ -8,7 +8,7 @@ Lorem ipsum. Content to be written. Until then, info dump below.
 
 - Musician
 	- **Pipe Organ**
-    - **Keyboard.** I've played in a few bands, playing Hammond organ, Rhodes, Wurlitzer, synth, and piano parts. Specialty is rock and blues, with some jazz.
+    - **Keyboard.** I've played in a few bands, playing Hammond organ, Rhodes, Wurlitzer, synth, and piano parts. I tend to favor rock and blues, with some jazz.
     - **Composer.** I arrange and occasionally write music for fun. I'll usually post that material to my [MuseScore profile](https://musescore.com/jpcranford/).
 
 - Programmer
