@@ -20,6 +20,3 @@ Lorem ipsum. Content to be written. Until then, info dump below.
 ### Currently learning
 	- JavaScript
 	- Material for [AGO certification](https://www.agohq.org/service-playing-test/)
-
-## Credits
-This blog was originally built off the [Reverie](https://github.com/amitmerchant1990/reverie) theme for Jekyll, which I modified further for my own purposes.
